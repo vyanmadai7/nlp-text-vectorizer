@@ -1,2 +1,20 @@
-# nlp-text-vectorizer
-NLP mini project that cleans text using NLTK tokenization and punctuation removal, then converts text into numerical vectors using Bag of Words with Scikit-learn.
+# NLP Text Vectorizer
+
+Simple NLP project made with Python.
+
+This program:
+- Cleans text
+- Removes punctuation
+- Tokenizes words using NLTK
+- Converts text into numerical vectors using Bag of Words
+
+## Libraries Used
+- Pandas
+- NLTK
+- Scikit-learn
+
+## Run
+
+```bash
+pip install pandas nltk scikit-learn
+python main.py
